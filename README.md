@@ -52,4 +52,6 @@ An interactive web-based **Boolean function minimizer** using the **Quine–McCl
 ---
 
 ## 📂 Project Structure
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/f53a23de-0fa8-4033-abb9-77352541c6b5" />
+
 
